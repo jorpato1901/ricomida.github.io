@@ -1,0 +1,53 @@
+body {
+    font-family: "Cabin", sans-serif;
+    color: #373A3C;
+    margin: 0;
+    padding: 0;
+}
+
+.nav_titulo {
+    font-family: "Lobster", cursive;
+    color: white;
+    font-size: 30pt;
+}
+
+.titulo_main {
+    text-align: left;
+    font-size: 40pt;
+    padding-right: 15%;
+    padding-top: 2%;
+
+}
+.pie-pagina {
+    font-family: "Lobster", cursive;
+    color:#FFFFFF;
+    font-size: 37pt;
+    text-align: center;
+    background:#373A3C;
+}
+
+.tituloh1{
+    background:#DC3545;
+    font: "cobin bold";
+    color: #DDDDDD;
+      
+}
+.titulo_pizza {
+    font-weight: 700;
+}
+
+hr {
+    border-top: 3px solid black !important;
+}
+
+.buton_main {
+    border: 1px solid #DDDDDD;
+}
+
+.buton_fin {
+    font: "cobin bold";
+    color: #DDDDDD;
+    background:#DC3545;
+    border: 1pt solid #DDDDDD;
+    
+}
